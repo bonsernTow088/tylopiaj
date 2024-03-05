@@ -1,0 +1,25 @@
+{
+  "name": "tylopiaj",
+  "version": "1.0.0",
+  "description": "A simple package utilizing the strimanga task scheduling library",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bonsernTow088/tylopiaj.git"
+  },
+  "keywords": [
+    "task",
+    "schedule",
+    "scheduling",
+    "library",
+    "javascript"
+  ],
+  "author": "bonsernTow088",
+  "license": "MIT",
+  "dependencies": {
+    "strimanga": "^1.0.0"
+  }
+}
